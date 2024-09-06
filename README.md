@@ -8,12 +8,6 @@ This project is a simple chatbot implementation in Python, using a JSON file to 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Enhancements](#enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
