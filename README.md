@@ -30,5 +30,28 @@ This project is a simple chatbot implementation in Python, using a JSON file to 
 
 ## Project Structure
 
+### chatbot_data.json
+
+The chatbot's responses are stored in the `chatbot_data.json` file. This file contains a list of questions and their corresponding responses.
+
+```json
+{
+  "conversations": [
+    {
+      "question": "hello",
+      "response": "Hi! How can I help you today?"
+    },
+    {
+      "question": "what is your name",
+      "response": "I'm your friendly chatbot!"
+    },
+    {
+      "question": "bye",
+      "response": "Goodbye! Have a great day!"
+    }
+  ]
+}
+
+
 
 </p>
